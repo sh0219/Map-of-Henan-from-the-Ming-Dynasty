@@ -14,13 +14,11 @@
 
 ### 明代河南布政使司历史地图
 
-<!-- 将下方网址替换为河南布政使司舆图的图片直链或仓库内文件地址 -->
-![明代河南布政使司历史地图](https://example.com/henan-administration-map.png)
+![明代河南布政使司历史地图]([https://example.com/henan-administration-map.pn](https://github.com/sh0219/Map-of-Henan-from-the-Ming-Dynasty/blob/main/%E6%B2%B3%E5%8D%97%E5%B8%83%E6%94%BF%E4%BD%BF%E5%8F%B8%E8%88%86%E5%9B%BE.png))
 
 ### 明代汝宁府历史地图
 
-<!-- 将下方网址替换为河南汝宁府校订舆图的图片直链或仓库内文件地址 -->
-![明代汝宁府历史地图](https://example.com/runing-prefecture-map.png)
+![明代汝宁府历史地图]([https://example.com/runing-prefecture-map.png](https://github.com/sh0219/Map-of-Henan-from-the-Ming-Dynasty/blob/main/%E6%B2%B3%E5%8D%97%E6%B1%9D%E5%AE%81%E5%BA%9C%E6%A0%A1%E8%AE%A2%E8%88%86%E5%9B%BE.png))
 
 ## 资料依据
 
